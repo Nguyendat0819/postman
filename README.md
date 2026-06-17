@@ -45,7 +45,8 @@
       "job": "Backend Developer"
   }
 
-  <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/4b219b43-d19c-48c9-8bb6-ac542acb9335" />
+ <img width="1144" height="901" alt="image" src="https://github.com/user-attachments/assets/06d6f160-fd0c-41e4-bbdb-75836621a72f" />
+
 
 ## 4. Kết luận & Đánh giá
 
